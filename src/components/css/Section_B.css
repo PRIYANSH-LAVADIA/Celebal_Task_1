@@ -1,0 +1,33 @@
+.section_b {
+  background-color:#F84646;
+  height: 40vh;
+  width: 105%;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  color: whitesmoke;
+}
+
+.container h2 {
+  margin-top: 30px;
+  font-size: 6vmin;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.container p {
+  font-size: small;
+  font-weight: 500;
+}
+
+.sub_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    gap: 30px;
+    padding-left: 20px;
+}
+

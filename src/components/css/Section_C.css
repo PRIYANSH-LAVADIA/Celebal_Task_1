@@ -1,0 +1,50 @@
+  .feature {
+    font-size: 22px;
+    position: relative;
+    padding: 50px 12%;
+    width: 100%;
+  }
+  
+  .row {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 0;
+    gap: 100px;
+  }
+  .row2 {
+    margin-top: 20px;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 0;
+    gap: 100px;
+  }
+  
+  .text-col {
+    flex-basis: 50%;
+    margin-bottom: 20px;
+  }
+
+  .text-col h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+  }
+  .text-col p{
+    font-size: medium;
+  }
+  .text-col li{
+    margin-left:-4% ;
+    margin-top: 5%;
+  }
+  .image {
+    display: block;
+    width: 90%;
+    margin: auto;
+  }
+  .img-col {
+    flex-basis: 40%;
+    margin-bottom: 20px;
+  }
+  
+  
