@@ -9,7 +9,7 @@ function Section_D() {
         <img src={D_a}></img>
         <h1>Bize Ulaşın</h1>
         <p>
-          Çözüm, hizmet ve ürünlerimiz hakkında detaylı bilgi için bizimle
+          Çözüm, hizmet ve ürünlerimiz  hakkında detaylı bilgi için bizimle
           irtibata geçin
         </p>
         <ul className="nav-links">
