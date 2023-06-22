@@ -72,7 +72,7 @@ function Footer() {
           </div>
         </div>
         <div className="footer_nav">
-          <h4>© Copyright 2023-2024 - Can Çevik</h4>
+          <h4>© Copyright Priyansh-Lavadia 2023-2024 - Can Çevik</h4>
           <img src={social}></img>
         </div>
       </div>
